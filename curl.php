@@ -14,7 +14,7 @@ $curl = curl_init();
       CURLOPT_CUSTOMREQUEST => 'POST',
       CURLOPT_POSTFIELDS => json_encode($data),
       CURLOPT_HTTPHEADER => array(
-        'Authorization: Qk_GciW7SgaQ1uwj5yuXWg==',
+        'Authorization: kvTFG_7zQL2mLBZPnLG17Q==',
         'Content-Type: application/json'
       ),
     ));
